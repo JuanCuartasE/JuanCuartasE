@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola, soy Juan Cuartas
 
-<!--
-**JuanCuartasE/JuanCuartasE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador con experiencia en Desarrollo Web y Escritorio. Actualmente.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguajes de programación: Python - Java - JavaScript
+- Herramientas y entornos: Pycharm - Netbeans - Visual Estudio Code
+
+## 🌱 Actualmente estoy estudiando:
+
+Tecnica Profesional en desarrollo de Sistemas Informáticos 
+
+## 💼 Experiencia
+
+- Help Training - Backend, Frontend 
+  - Desarrollo de aplicación de escritorio en Python para crear rutinas de ejercicios, y promover habitos saludables
+
+- Matemática Interactiva - Backend, Frontend  
+  - Desarrollo de aplicación web para estudiantes que cursan los primeros grados de matemáticas de las universidades
+
+
+## 🤝 Colaboración
+
+¡Estoy abierto a colaboraciones y nuevos proyectos! Si tienes alguna idea interesante o necesitas ayuda en algún proyecto, no dudes en contactarme.
+
+
+¡Gracias por visitar mi perfil!
+
