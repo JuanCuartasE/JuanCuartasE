@@ -27,3 +27,6 @@ Tecnica Profesional en desarrollo de Sistemas Informáticos
 
 ¡Gracias por visitar mi perfil!
 
+
+
+#(Todo es mentira)!!!!!!!!!s"
