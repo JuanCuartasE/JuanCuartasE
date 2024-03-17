@@ -1,6 +1,6 @@
 # Hola, soy Juan Cuartas
 
-Soy un desarrollador con experiencia en Desarrollo Web y Escritorio. Actualmente.
+Programador con experiencia en Desarrollo Web y Escritorio. Actualmente.
 
 ## 🚀 Tecnologías
 
