@@ -5,11 +5,11 @@ Programador con experiencia en Desarrollo Web y Escritorio. Actualmente.
 ## 🚀 Tecnologías
 
 - Lenguajes de programación: Python - Java - JavaScript
-- Herramientas y entornos: Pycharm - Netbeans - Visual Estudio Code
+- Herramientas y entornos: Pycharm - Netbeans - Visual Estudio Code - SpringBoot
 
 ## 🌱 Actualmente estoy estudiando:
 
-Tecnica Profesional en desarrollo de Sistemas Informáticos 
+Ingeniería informatica (con ciclos propedéuticos)
 
 ## 💼 Experiencia
 
