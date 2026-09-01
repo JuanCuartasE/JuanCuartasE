@@ -5,7 +5,7 @@ Programador con experiencia en Desarrollo Web y Escritorio. Actualmente.
 ## 🚀 Tecnologías
 
 - Lenguajes de programación: Python - Java - JavaScript
-- Herramientas y entornos: Pycharm - Netbeans - Visual Estudio Code - SpringBoot
+- Herramientas y entornos: Pycharm - Netbeans - Visual Estudio Code - SpringBoot - AWS GLUE - CQRS - FastApi
 
 ## 🌱 Actualmente estoy estudiando:
 
@@ -19,6 +19,14 @@ Ingeniería informatica (con ciclos propedéuticos)
 - Matemática Interactiva - Backend, Frontend  
   - Desarrollo de aplicación web para estudiantes que cursan los primeros grados de matemáticas de las universidades
 
+- Bancolombia SA:
+  - Gestor documental y analista de procesos operativos
+
+- Interacto SAS:
+  - Desarrollador Fullstack enfocado en software a medida para empresas industriales.
+
+- Protección SA (Trabajo actual):
+    - Desarrollador Backend enfocado en aplicativos de inversiones y gestión patrimonial (Python - FastAPI , Java SpringBoot).
 
 ## 🤝 Colaboración
 
